@@ -13,7 +13,7 @@ This example solution will take an instance ID from an SNS topic and through a s
 Demo script to automatically restart CloudTrail. The script have placeholders for forensics etc. to avoid enabling CloudTrail without finding the causing user.
 
 ## force-user-mfa
-Demo script to automatically create and attach virtual MFA to any newly created IAM user. The use can fetch the MFA Seed themselves using AWS CLI.
+Demo script to automatically create and attach virtual MFA to any newly created IAM user. The user can fetch the MFA Seed themselves using AWS CLI.
 
 ***
 
